@@ -8,13 +8,6 @@ Frontend Developer | React ⚛️ | Tailwind CSS 🎨 | JavaScript 💻
 
 ---
 
-## 🌗 Dark/Light Mode Toggle
-<p align="center">
-  <img src="https://img.shields.io/badge/Dark--Light-Mode-blue?style=for-the-badge" alt="Dark Light Mode Toggle">
-</p>
-
----
-
 ## 🔧 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +18,7 @@ Frontend Developer | React ⚛️ | Tailwind CSS 🎨 | JavaScript 💻
 
 ---
 
-## 📊 Animated Skill Bars
+## 📊 Skill Bars
 **HTML:** ▓▓▓▓▓▓▓▓▓▓ 90%  
 **CSS:** ▓▓▓▓▓▓▓▓▓ 85%  
 **JavaScript:** ▓▓▓▓▓▓▓▓▓ 80%  
